@@ -3,6 +3,6 @@
 	"description": "Lorem ipsum dolor sit amet",
 	"extra": {
     "branch-alias": {
-        "dev-master": "2.4.x-dev"
+        "dev-master": "0.0.1-dev"
     }
 }
