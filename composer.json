@@ -1,3 +1,8 @@
 {
-	"name": "Damien Debug"
+	"name": "Damien Debug",
+	"description": "Lorem ipsum dolor sit amet",
+	"extra": {
+    "branch-alias": {
+        "dev-master": "2.4.x-dev"
+    }
 }
